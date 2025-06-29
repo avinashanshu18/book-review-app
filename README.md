@@ -217,8 +217,6 @@ alembic upgrade head
 | Alembic + Migration Index      | ✅ Complete    |
 | Unit + Integration Tests       | ✅ Complete    |
 | README with all instructions   | ✅ This file   |
-| GitHub Push                    | 🚧 Push Repo   |
-| Live Walk-through (5 mins)     | 🚧 Pending     |
 
 ---
 
