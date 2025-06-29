@@ -223,4 +223,4 @@ alembic upgrade head
 ## 📩 Author
 
 **Avinash Anshu**  
-GitHub: [github.com/yourusername](https://github.com/yourusername)
+GitHub: [github.com/yourusername](https://github.com/avinashanshu18)
